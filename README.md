@@ -1,1 +1,3 @@
+Project Description:
+
 We are going to do a sentiment analysis of movie reviews. The task is to look past the review rating and focus on the overarching theme (positive or negative) of the review. This is important for users who are deciding whether or not to watch a movie since the movie review rating that people give usually isn’t representative of their written thoughts of the movie. Additionally, most of the time people just want to know whether a movie is good or not and don’t want to read extremely long reviews. Providing a sentiment analysis on movie reviews allows users to understand the population’s view on the movie without spending the time to read each review.
