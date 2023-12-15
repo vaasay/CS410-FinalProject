@@ -13,7 +13,12 @@ The code comprises a Python script for sentiment analysis using a mixture model 
 # Instructions to Run Code
 
 1. Set up an environment running Python 3.8
-1. Install the following libraries using pip–install: nltk, tqdm, reader, Collections, numpy
+1. Install the following libraries using pip–install: 
+    - nltk
+    - tqdm 
+    - reader 
+    - Collections
+    - numpy
 1. Clone repo to local machine and run the program by typing “python3 final_project.py”. You may have to run the program by typing “py final_project.py” if the first command doesn’t work.
 1. Record results
 1. To run the SOTA model (XLNet) for this IMDB dataset to compare with more complicated models with slightly higher accuracies than our model, there are two recommended ways:
